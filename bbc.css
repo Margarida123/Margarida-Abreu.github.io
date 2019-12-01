@@ -1,0 +1,46 @@
+ h1 {
+  color: white;
+}
+.container {
+   background-color: #bb1919;
+   margin: 0 auto;
+   width: 88%;
+}
+
+ h2 {
+  color: black;
+  background-color: white;
+  
+ }
+ .tab  {
+ 	padding-top: 10px;
+ 	background-color: #bb1919
+ }
+
+ .tab1{
+  color: black;
+  background-color: white; 
+ }
+
+.tab1 a {
+  color: black;
+  text-decoration: none;
+ }
+
+.topnav {
+  background-color: #a91717;
+  color: white;
+}
+
+.topnav a {
+  color: white;
+  padding: 20px 22px;
+  text-decoration: none;
+  font-size: 17px;
+  margin-bottom: 2px;
+}
+
+.topnav a:hover {
+  border-bottom: 2px solid white;
+}
+

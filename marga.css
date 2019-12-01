@@ -1,0 +1,48 @@
+.container  {
+  margin: 0 auto;
+  width: 80%;
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+  text-align: center;
+  color: white;
+   } 
+
+.main  {
+  margin: 0 auto;
+  width: 80%;
+  display: grid;
+  grid-template-columns: 1fr
+  color: white;
+   } 
+
+ .column {
+  width: 100%;
+  margin: 0 auto;
+  display: block;
+  color: white;
+  text-align: center;
+   } 
+
+.main-content {
+  width: 80%;
+  margin: 0 auto;
+  text-align: center;
+  color: white;
+   } 
+
+.column1 a {
+  color: white;
+  text-decoration: none;
+  text-align: left;
+  padding: 15px 17px;
+  text-decoration: none;
+  font-size: 17px;
+  margin-bottom: 2px;
+ }
+
+body {
+  background-image: url("img/margaridabackground.png");
+  background-repeat: no-repeat;
+  background-color: #020305;
+  background-image: center;
+}

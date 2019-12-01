@@ -1,0 +1,55 @@
+/*h1 {
+  color: red;
+  
+ }
+
+ h3 {
+  color: red;
+ } 
+
+li {
+  color: blue;
+}*/
+
+
+#welcome {
+  color: #C4E0F9;
+  font-size: 50px;
+  margin: 0;
+  
+ }
+#tagline{
+  color: orange;
+  font-weight: bold;
+  margin: 0;
+  
+ }
+
+.bluecolor {
+  color: blue;
+  
+ }
+.redcolor {
+  color: red;
+  
+ }
+
+ img
+ {
+  border-radius: 50%;
+
+ }
+
+  .center {
+  display: block;
+  margin-left: 70;
+  margin-right: 30;
+  width: 50%;
+
+  }
+
+  body
+  {
+  background-color: #F0544F;
+  }
+ 
